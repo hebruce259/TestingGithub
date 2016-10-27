@@ -1,0 +1,6 @@
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab2Backup\Lab2Backup\bin\Debug\Lab2Backup.exe.config
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab2Backup\Lab2Backup\bin\Debug\Lab2Backup.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab2Backup\Lab2Backup\bin\Debug\Lab2Backup.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab2Backup\Lab2Backup\obj\Debug\Lab2Backup.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab2Backup\Lab2Backup\obj\Debug\Lab2Backup.pdb
+C:\Users\Sonia Blake\documents\visual studio 2015\Projects\Lab2Backup\Lab2Backup\obj\Debug\Lab2Backup.csprojResolveAssemblyReference.cache
